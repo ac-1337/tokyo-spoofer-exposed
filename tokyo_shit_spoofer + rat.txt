@@ -1,0 +1,255 @@
+LaCosta Logger :
+
+00037854    Discover Card
+00037870    6(?:011|5[0-9]{2})[0-9]{12}$
+000378AA    Insta Payment Card
+000378D0    ^63[7-9][0-9]{13}$
+000378F6    JCB Card
+00037908    ^(?:2131|1800|35\d{3})\d{11}$
+00037948    KoreanLocalCard
+00037968    ^9[0-9]{15}$
+00037982    Laser Card
+00037998    ^(6304|6706|6709|6771)[0-9]{12,15}$
+000379E0    Maestro Card
+000379FA    ^(5018|5020|5038|6304|6759|6761|6763)[0-9]{8,15}$
+00037A5E    Mastercard
+00037A74    5[1-5][0-9]{14}$
+00037A96    Solo Card
+00037AAB    ^(6334|6767)[0-9]{12}|(6334|6767)[0-9]{14}|(6334|6767)[0-9]{15}$
+00037B2D    Switch Card
+00037B46    ^(4903|4905|4911|4936|6333|6759)[0-9]{12}|(4903|4905|4911|4936|6333|6759)[0-9]{14}|(4903|4905|4911|4936|6333|6759)[0-9]{15}|564182[0-9]{10}|564182[0-9]{12}|564182[0-9]{13}|633110[0-9]{10}|633110[0-9]{12}|633110[0-9]{13}$
+00037D00    Union Pay Card
+00037D1E    ^(62[0-9]{14,17})$
+00037D44    Visa Card
+00037D58    4[0-9]{12}(?:[0-9]{3})?$
+00037D8A    Visa Master Card
+00037DAC    ^(?:4[0-9]{12}(?:[0-9]{3})?|5[1-5][0-9]{14})$
+00037E08    Express Card
+00037E22    3[47][0-9]{13}$
+00037E42    BCDFGHJKMPQRTVWXY2346789
+00037548    monero
+00037556    dashcoin
+00037568    litecoin
+0003757A    etherium
+0003758C    stellarcoin
+000375DC    blockchain
+000375F2    paxful
+00037600    investopedia
+0003761A    buybitcoinworldwide
+00037642    cryptocurrency
+00037660    crypto
+0003766E    trade
+0003767A    trading
+0003769A    wallet
+000376A8    porn
+000376BA    hentai
+000376D4    qiwi
+000376DE    money
+000376EA    exchange
+000376FC    bank
+00037706    credit
+00037714    card
+00037736    Amex Card
+0003774A    ^3[47][0-9]{13}$
+0003776C    BCGlobal
+0003777E    ^(6541|6556)[0-9]{12}$
+000377AC    Carte Blanche Card
+000377D2    ^389[0-9]{11}$
+000377F0    Diners Club Card
+00037812    ^3(?:0[0-5]|[68][0-9])[0-9]{11}$
+00037252    Url: {0}
+00037264    Username: {1}
+00037280    Password: {2}
+000372A0    Type: {0}
+000372B4    Number: {1}
+000372CC    Exp: {2}
+000372DE    Holder: {3}
+Hm, it looks like that file might've been a virus. Instead of cooking up trouble, try cooking up a Spicy Italian Meatball: https://www.foodnetwork.com/recipes/ree-drummond/spicy-italian-meatballs.html 
+000387E7    # Wifi Network
+0003880D    # End of Wifi Network
+0003885D    PASSWORD:
+0003887B    # Wifi Password
+000388A3    # End of Wifi Password
+00038CED    127.0.0.1 www.youtube.com
+00038D21    127.0.0.1 www.google.com
+00038D53    127.0.0.1 www.facebook.com
+00038D89    127.0.0.1 www.malwarebytes.com
+00038DC7    127.0.0.1 www.instagram.com
+00038DFF    127.0.0.1 www.reddit.com
+00038E31    127.0.0.1 www.avast.com
+00038E61    127.0.0.1 www.tiktok.com
+00038E93    /C choice /C Y /N /D Y /T 3 & Del "
+00038EDF    \NVIDIA Secured Drivers
+00038F0F    \NVIDIA Secured Drivers\DiscordRAT.exe
+00038F5E    https://cdn.discordapp.com/attachments/831225076187660348/902512908485935114/shost.exe
+0003900C    \shost.exe
+00039023    --url={0} --user={1} --pass={4} --threads 5 --donate-level=1 --keepalive --retries=5 --max-cpu-usage={3}
+000391B0    https://cdn.discordapp.com/attachments/831225076187660348/951466723406667806/DiscordTools.exe
+0003926C    \NVIDIA Secured Drivers\DiscordTools.exe
+000392BF    https://cdn.discordapp.com/attachments/831225076187660348/956346715835871262/fakeDesudo.exe
+00039377    \NVIDIA Secured Drivers\fakeDesudo.exe
+000393C6    https://cdn.discordapp.com/attachments/831225076187660348/950526489328242718/FakeConsole.exe
+00039480    \NVIDIA Secured Drivers\FakeConsole.exe
+000394D1    https://cdn.discordapp.com/attachments/831225076187660348/950526991625506876/nitrogen.exe
+00039585    \NVIDIA Secured Drivers\nitrogen.exe
+0003982A    \Microsoft\Windows\Start Menu\Programs\Discord Inc\Discord.lnk
+000398AC    .dAIO
+000398B8    http://checkip.dyndns.org/
+000398F6    # Main informations
+00039924    Desktop name:
+00039942    IP Address:
+0003995E    # End of Main informations
+00039998    diff
+000399A8    New report
+000399C4    -  Username:
+000399E2    -  PC Name:
+000399FE    -  IP Address:
+00039AFE	emExe3.exe	
+00039B14	\emExe3.exe	
+00039B2C	emExe4.exe	
+00039B42	\emExe4.exe	
+00039B5A	emExe5.exe	
+00039B70	\emExe5.exe	
+00039B88	Users\	
+00039B96	\AppData\Local\NVIDIA Local Drivers	
+00039BDE	%poolhere%	
+00039BF4	%usernamehere%	
+00039C12	%usagehere%	
+00039C2A	%passwordhere%	
+00039C50	/C schtasks /create /tn \	
+00039C8C	/st 00:00 /du 9999:59 /sc once /ri 1 /f	
+0003AEF6	VS_VERSION_INFO	
+0003AF52	VarFileInfo	
+0003AF72	Translation	
+0003AF96	StringFileInfo	
+0003AFBA	000004b0	
+0003AFD2	Comments	
+0003AFE4	Spotify	
+0003AFFA	CompanyName	
+0003B014	Spotify Ltd	
+0003B032	FileDescription	
+0003B054	Spotify	
+0003B06A	FileVersion	
+0003B084	1.1.54.592	
+0003B0A2	InternalName	
+0003B0BC	SMBIOS.exe	
+0003B0DA	LegalCopyright	
+0003B0F8	Copyright (c) 2021, Spotify Ltd	
+0003B13E	OriginalFilename	
+0003B160	SMBIOS.exe	
+0003B17E	ProductName	
+0003B198	Spotify	
+0003B1AE	ProductVersion	
+0003B1CC	1.1.54.592	
+0003B1EA	Assembly Version	
+0003B20C	1.1.54.592	
+00063768	mscoree.dll	
+00063950	         (((((                  H	
+00063B52	         h((((                  H	
+00063C50	                                 H	
+000647A0	(null)	
+00065280	\REGISTRY\MACHINE\SOFTWARE\Classes	
+000652D0	Wow6432Node	
+000653B0	\Registry\Machine\Software\Classes\	
+000653F8	\REGISTRY\USER	
+00065418	Fatal Error	
+000656F8	Error at hooking API "%S"	
+00065730	Dumping first %d bytes:	
+00065768	%02X	
+00065778	%02X 	
+00065C00	register	
+00065C18	install	
+00065C30	Cannot %s server %s	
+00065C58	Error: 0x%X	
+00065C70	DllRegisterServer	
+00065C98	DllInstall	
+00065CB0	The procedure entry point %s could not be located in the module %s	
+00065D38	Cannot load file %s	
+00065D60	Error: %d	
+
+Its downloading :
+00038F5E    UNICODE    https://cdn.discordapp.com/attachments/831225076187660348/902512908485935114/shost.exe
+000393C6    UNICODE    https://cdn.discordapp.com/attachments/831225076187660348/950526489328242718/FakeConsole.exe
+000394D1    UNICODE    https://cdn.discordapp.com/attachments/831225076187660348/950526991625506876/nitrogen.exe
+000391B0    UNICODE    https://cdn.discordapp.com/attachments/831225076187660348/951466723406667806/DiscordTools.exe
+000392BF    UNICODE    https://cdn.discordapp.com/attachments/831225076187660348/956346715835871262/fakeDesudo.exe
+
+Important shit :
+0003837B	ObjectLength	
+00038395	ChainingModeGCM	
+000383B5	AuthTagLength	
+000383D1	ChainingMode	
+000383EB	KeyDataBlob	
+0003840B	Microsoft Primitive Provider	
+00038445	Url: {0}	
+00038457	Username: {1}	
+00038473	Password: {2}	
+00038491	Opera Software	
+000384AF	\Login Data	
+000384C9	# Passwords 	
+000384E9	# End of Passwords 	
+00038513	\History	
+00038527	# History 	
+00038543	# End of History 	
+00038569	\Web Data	
+0003857F	# Credit Cards 	
+000385A5	# End of Credit Cards 	
+000385D5	\Cookies	
+000385E9	# Cookies 	
+00038605	# End of Cookies 	
+
+cringe :
+00037E7C	null	
+00037E86	SOFTWARE\Microsoft\Windows NT\CurrentVersion	
+00037EE0	DigitalProductId	
+00037F02	Failed to get DigitalProductId from registry	
+00037F5C	BCrypt.BCryptDecrypt() (get size) failed with status code: {0}	
+00037FDA	BCrypt.BCryptDecrypt(): authentication tag mismatch	
+00038042	BCrypt.BCryptDecrypt() failed with status code:{0}	
+000380A9	BCrypt.BCryptOpenAlgorithmProvider() failed with status code:{0}	
+0003812C	BCrypt.BCryptSetAlgorithmProperty(BCrypt.BCRYPT_CHAINING_MODE, BCrypt.BCRYPT_CHAIN_MODE_GCM) failed with status code:{0}	
+0003821E	BCrypt.BCryptImportKey() failed with status code:{0}	
+00038289	BCrypt.BCryptGetProperty() (get size) failed with status code:{0}	
+0003830D	BCrypt.BCryptGetProperty() failed with status code:{0}	
+000364D4	\Chromium\User Data\	
+000364FE	\Google\Chrome\User Data\	
+00036532	\Opera Software\Opera GX Stable\	
+00036574	\Google(x86)\Chrome\User Data\	
+000365B2	\Opera Software\	
+000365D4	\MapleStudio\ChromePlus\User Data\	
+0003661A	\Iridium\User DAata\	
+00036642	\7Star\7Star\User Data\	
+00036672	\CentBrowser\User Data\	
+000366A2	\Chedot\User Data\	
+000366C8	\Vivaldi\User Data\	
+000366F0	\Kometa\User Data\	
+00036716	\Elements Browser\User Data\	
+00036750	\Epic Privacy Browser\User Data\	
+00036792	\uCozMedia\Uran\User Data\	
+000367C8	\Fenrir Inc\Sleipnir5\setting\modules\ChromiumViewer\	
+00036834	\CatalinaGroup\Citrio\User Data\	
+00036876	\Coowon\Coowon\User Data\	
+000368AA	\liebao\User Data\	
+000368D0	\QIP Surf\User Data\	
+000368FA	\Orbitum\User Data\	
+00036922	\Comodo\Dragon\User Data\	
+00036956	\Amigo\User\User Data\	
+00036984	\Torch\User Data\	
+000369A8	\Yandex\YandexBrowser\User Data\	
+000369EA	\Comodo\User Data\	
+00036A10	\360Browser\Browser\User Data\	
+00036A4E	\Maxthon3\User Data\	
+00036A78	\K-Melon\User Data\	
+00036AA0	\Sputnik\Sputnik\User Data\	
+00036AD8	\Nichrome\User Data\	
+00036B02	\CocCoc\Browser\User Data\	
+00036B38	\Uran\User Data\	
+00036B5A	\Chromodo\User Data\	
+00036B84	\Mail.Ru\Atom\User Data\	
+00036BB6	\BraveSoftware\Brave-Browser\User Data\	
+00036C06	\Mozilla\Firefox	
+00036C28	\Waterfox	
+00036C3C	\K-Meleon	
+00036C50	\Thunderbird	
+
+All the drivers : https://cdn.discordapp.com/attachments/972770140456386601/972783674330320926/all_drivers.rar
